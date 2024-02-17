@@ -1,4 +1,4 @@
-### Hi there 👋
+![Fondo de perfil](https://media.licdn.com/dms/image/D4E16AQHqPxWxTVumIg/profile-displaybackgroundimage-shrink_350_1400/0/1708208500017?e=1713398400&v=beta&t=DKdpre8W47SXJB3ag3sAdvxPMt83-Tv9Tlf5Fobdt0Q)
 
 <!--
 **Sepy11BJ/Sepy11BJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
