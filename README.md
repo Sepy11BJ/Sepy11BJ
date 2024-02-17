@@ -48,7 +48,7 @@ Soy un apasionado de la tecnología que encuentra inspiración en los desafíos 
 
 <p align="center">
 <!--<a href="https://kevinpatel.herokuapp.com/"><img src="https://img.shields.io/badge/-kevinpatel.herokuapp.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>-->
-<a href="https://linkedin.com/in/jhossepy-alexander-bj"><img src="https://img.shields.io/badge/-jhossepy%20barandiaran-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jhossepy-barandiaran-japaja-a856732a8/"><img src="https://img.shields.io/badge/-jhossepy%20barandiaran-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sepy102002@gmail.com"><img src="https://img.shields.io/badge/-sepy102002@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <!--<a href="https://instagram.com/kevinpatel.me"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
