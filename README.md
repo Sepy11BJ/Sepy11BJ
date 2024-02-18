@@ -5,7 +5,7 @@
 <h1 align="center">Hola 👋, Soy Jhossepy Barandiaran </h1>
 
 <p align="center">
-Soy un apasionado de la tecnología que encuentra inspiración en los desafíos y siempre busca nuevas oportunidades de aprendizaje. Mi interés por la innovación me ha llevado a explorar el mundo del desarrollo web, centrándome actualmente en el backend utilizando Java. Desde mis inicios en programación con Java, he estado inmerso en proyectos que me permiten expandir mis habilidades y conocimientos en este lenguaje.
+Soy un apasionado de la tecnología que encuentra inspiración en los desafíos y siempre busca nuevas oportunidades de aprendizaje. Mi interés por la innovación me ha llevado a explorar el mundo del desarrollo, centrándome actualmente en el backend utilizando Java. Desde mis inicios en programación con Java, he estado inmerso en proyectos que me permiten expandir mis habilidades y conocimientos en este lenguaje.
 
 ### 🛠 &nbsp; Tecnologías
 
